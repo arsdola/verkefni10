@@ -48,6 +48,12 @@ main { /* stylelint-disable-line */
   flex: 2;
 }
 
+.youtube {
+  width: 50%;
+  height: 70%;
+  margin: 0 auto;
+}
+
 @import "text";
 @import "button";
 @import "apod";
